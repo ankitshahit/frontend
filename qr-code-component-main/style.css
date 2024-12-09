@@ -39,8 +39,9 @@ body {
 }
 
 .app img {
-  max-width: 20rem;
-  max-height: 20rem;
+  max-width: 22rem;
+  max-height: 19rem;
+  margin-top: 1rem;
   border-radius: 1rem;
   height: auto;
   width: auto;
@@ -58,6 +59,7 @@ body {
   font-weight: 700;
   padding-left: 1rem;
   word-wrap: break-wrap;
+  font-size: 1.6rem;
 }
 
 .header-text2 {
